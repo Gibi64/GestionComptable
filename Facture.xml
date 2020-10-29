@@ -1,0 +1,61 @@
+<Facture>
+<Columns Width="2.28">
+<Column Id="A" Width="0.87"></Column>
+<Column Id="B" Width="6.14"></Column>
+<Column Id="C" Width="1.43"></Column>
+<Column Id="D" Width="2.54"></Column>
+<Column Id="E" Width="2.54"></Column>
+<Column Id="G" Width="3.57"></Column>
+
+</Columns>
+<Rows Height="0.53">
+<Row Id="10" Height="1.32"></Row>
+<Row Id="40" Height="0.93"></Row>
+
+</Rows>
+<Cells>
+<Cell Id="B2" Text="M.Bickert Jacques" Font="Calibri" Bold="true" FontSize="11"></Cell>
+<Cell Id="G2" Text="Page:1/1" Font="Calibri" Bold="false" FontSize="11"></Cell>
+<Cell Id="B3" Text="9 Rue du stade" Font="Calibri" Bold="true" FontSize="11"></Cell>
+<Cell Id="B4" Text="64110 Uzos" Font="Calibri" Bold="true" FontSize="11"></Cell>
+<Cell Id="B5" Text="SIRET : 50932122000014 " Font="Calibri" Bold="true" FontSize="11"></Cell>
+<Cell Id="B6" Text="N&#176; TVA Intracommunautaire : FR78509321220 " Font="Calibri" Bold="true" FontSize="11"></Cell>
+
+<Cell Id="E7" Text="Correspondant:" Font="Calibri" Bold="false" FontSize="11"></Cell>
+
+<Cell Id="B10" Text="FACTURE N&#176;" Font="Arial" Bold="true" FontSize="18"></Cell>
+<Cell Id="C10" Text="" Font="Arial" Bold="true" FontSize="18"></Cell>
+
+<Cell Id="B17" Text="Description" Font="Tahoma" Bold="true" FontSize="9"></Cell>
+<Cell Id="C17" Text="Qt&#233;" Font="Tahoma" Bold="true" FontSize="9"></Cell>
+<Cell Id="D17" Text="PU brut HT" Font="Tahoma" Bold="true" FontSize="9"></Cell>
+<Cell Id="E17" Text="Remise %" Font="Tahoma" Bold="true" FontSize="9"></Cell>
+<Cell Id="F17" Text="PU Net HT" Font="Tahoma" Bold="true" FontSize="9"></Cell>
+<Cell Id="G17" Text="Total HT" Font="Tahoma" Bold="true" FontSize="9"></Cell>
+
+<Cell Id="E25" Text="TOTAL BRUT HT" Font="Arial" Bold="true" FontSize="10"></Cell>
+<Cell Id="E26" Text="Remise (0%)" Font="Arial" Bold="true" FontSize="10"></Cell>
+<Cell Id="E27" Text="TOTAL NET HT" Font="Arial" Bold="true" FontSize="10"></Cell>
+<Cell Id="E28" Text="TVA (20%)" Font="Arial" Bold="true" FontSize="10"></Cell>
+<Cell Id="E29" Text="Net &#224; payer" Font="Arial" Bold="true" FontSize="10"></Cell>
+
+<Cell Id="B31" Text="date d'&#233;cheance" Font="Arial" Bold="false" FontSize="9"></Cell>
+<Cell Id="B32" Text="Mode de paiement" Font="Arial" Bold="false" FontSize="9"></Cell>
+<Cell Id="B33" Text="Condition d'escompte" Font="Arial" Bold="false" FontSize="9"></Cell>
+<Cell Id="B34" Text="Penalit&#233;s de retard" Font="Arial" Bold="false" FontSize="9"></Cell>
+<Cell Id="E40" Text="Courriel : jacques.bickert@gmail.com" Font="Arial" Bold="true" FontSize="9"></Cell>
+<Cell Id="C33" Text="Pas d'escompte en cas de paiement anticip&#233;" Font="Arial" Bold="true" FontSize="9"></Cell>
+<Cell Id="C34" Text="En cas de non paiement apr&#232;s &#233;ch&#233;ance, les p&#233;nalit&#233;s de retard sont dues au" Font="Arial" Bold="true" FontSize="9"></Cell>
+<Cell Id="C35" Text="taux mensuel de 3 fois le taux de l'int&#233;r&#234;t l&#233;gal" Bold="true" FontSize="9"></Cell>
+
+<Cell Id="B40" Text="Tel: 07 71 76 31 76" Font="Arial" Bold="true" FontSize="9"></Cell>
+
+</Cells>
+<Borders>
+<Border FromRange="E25" ToRange="G29"></Border>
+<Border FromRange="B17" ToRange="G17"></Border>
+<Border FromRange="B10" ToRange="F10"></Border>
+<Border FromRange="B40" ToRange="G40"></Border>
+
+</Borders>
+</Facture>
